@@ -8,7 +8,9 @@
     <body>
         <h1>Choose Option</h1>
         <a href="insert.jsp">Insert Record</a><br />
-        <a href="delete.jsp">Delete Record</a><br />
+        <a href="delete.jsp">Delete Record</a>
+        
+        <br />
         <a href="update.jsp">Update Record</a>
     </body>
 </html>
